@@ -1,0 +1,10 @@
+GIT COMMANDS
+git clone git URL
+-ADD few files into local repository
+git status
+git add -A
+git status
+git commit -m "version1"
+git push
+
+
